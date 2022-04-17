@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Digueloulou12/RantomTp
+build-by-default: true
+branches:
+- main
+projects:
+  RantomTp:
+    path: ""
+...
